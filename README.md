@@ -8,9 +8,7 @@
 
 [Actividad1_Regresión_Y_ReglasDeAsociación](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Ejercicios%201.pdf)
 
-[Resumen_Técnicas]
-(https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/Resumen_%7BPatrones-Secuenciales%7D_%7B1819111%7D.pdf)
+[Resumen_Técnicas](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/Resumen_%7BPatrones-Secuenciales%7D_%7B1819111%7D.pdf)
 
 
-[Mapa_Mental_II]
-(https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/MapaMental_2_%7B1819111%7D.pdf)
+[Mapa_Mental_II](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/MapaMental_2_%7B1819111%7D.pdf)

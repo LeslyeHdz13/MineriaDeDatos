@@ -12,3 +12,6 @@
 
 
 [Mapa_Mental_II](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/MapaMental_2_%7B1819111%7D.pdf)
+
+
+[Data_base](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AnalisisBD_1819111.pdf)

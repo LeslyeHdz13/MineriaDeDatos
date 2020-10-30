@@ -17,3 +17,5 @@
 [Data_base](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AnalisisBD_1819111.pdf)
 
 [Python_Basico](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/PythonBasico_1819111.ipynb)
+
+[Avance_1_Proyecto](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AVANCE1-PIA_EQUIPO12_GPO3.pdf)

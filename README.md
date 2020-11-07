@@ -19,3 +19,7 @@
 [Python_Basico](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/PythonBasico_1819111.ipynb)
 
 [Avance_1_Proyecto](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/AVANCE1-PIA_EQUIPO12_GPO3.pdf)
+
+[P1 - Manipulación de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/LimpiezaDatos_Equipo12.ipynb)
+
+[P2 - Visualización de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/Visualizaci%C3%B3nDatos_Equipo12.ipynb)

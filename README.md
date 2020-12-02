@@ -29,5 +29,8 @@
  - [P2 - Visualización de datos](https://github.com/perladiaaz/Mineria_de_datos/blob/master/Visualizaci%C3%B3nDatos_Equipo12.ipynb)
 
  - [Avance 2](https://github.com/perladiaaz/Mineria_de_datos/blob/master/AvancePIA_II_003_12.ipynb)
+ 
+ ### Proyecto
+ - [Proyecto_Final](https://github.com/LeslyeHdz13/MineriaDeDatos)
 
 

@@ -31,6 +31,6 @@
  - [Avance 2](https://github.com/perladiaaz/Mineria_de_datos/blob/master/AvancePIA_II_003_12.ipynb)
  
  ### Proyecto
- - [Proyecto_Final](https://github.com/LeslyeHdz13/MineriaDeDatos)
+ - [Proyecto_Final](https://github.com/LeslyeHdz13/MineriaDeDatos/blob/master/POSTER_FINAL_E11.pdf)
 
 
